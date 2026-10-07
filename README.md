@@ -1,5 +1,11 @@
 # Studi_Kasus_6_Fery-Sugiantoro_039
 
+Nama : Fery Sugiantoro
+
+NIM : 2609116039
+
+Kelas : A
+
 # Sistem Pencatatan Nilai Mahasiswa
 
 ## Penjelasan Program
@@ -27,10 +33,16 @@ Program ini digunakan untuk mencatat dan menampilkan data nilai mahasiswa dengan
 
 ### Output Program
 
-<img width="1920" height="1080" alt="Screenshot (760)" src="https://github.com/user-attachments/assets/25c134ce-3130-49d1-9110-e197826ca4ba" />
+<img width="1920" height="1017" alt="Screenshot (766)" src="https://github.com/user-attachments/assets/78a2eeb8-9205-497b-8b27-1544735979ae" />
 
 
-### Data Tersimpan
+### Bukti Data Tersimpan
 
-<img width="1920" height="1080" alt="Screenshot (761)" src="https://github.com/user-attachments/assets/560caf27-21ff-4b56-aed4-3a5d7717cb4a" />
+<img width="1920" height="1014" alt="Screenshot (764)" src="https://github.com/user-attachments/assets/31541ddb-24e6-4c3c-92f9-b15456a9c042" />
+
+
+
+<img width="1920" height="1014" alt="Screenshot (765)" src="https://github.com/user-attachments/assets/5f4e84f1-4ee6-4c10-ae1f-dae0f8cda71f" />
+
+
 
