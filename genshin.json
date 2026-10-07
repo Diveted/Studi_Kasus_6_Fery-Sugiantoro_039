@@ -1,0 +1,32 @@
+[
+    {
+        "nim": "26091139",
+        "nama": "fery sugian",
+        "mata_kuliah": "matematika diskrit",
+        "nilai": "200"
+    },
+    {
+        "nim": "26091123",
+        "nama": "omar jahran",
+        "mata_kuliah": "Bahasa Inggris",
+        "nilai": "100"
+    },
+    {
+        "nim": "26091115",
+        "nama": "kaiser",
+        "mata_kuliah": "Bahasa Inggris",
+        "nilai": "100"
+    },
+    {
+        "nim": "26091117",
+        "nama": "jihanun syam",
+        "mata_kuliah": "seni budaya",
+        "nilai": "101"
+    },
+    {
+        "nim": "26091111",
+        "nama": "debora lintang",
+        "mata_kuliah": "ddp",
+        "nilai": "100"
+    }
+]
